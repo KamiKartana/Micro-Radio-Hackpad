@@ -1,0 +1,6 @@
+Bill of materials
+4x white key caps
+2x Rotary encoders
+1x xiao MCU
+1x 0.91 inch oled display
+4x MX Switches
