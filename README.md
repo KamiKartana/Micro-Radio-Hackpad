@@ -15,7 +15,7 @@ KiCad PCB Final
 
 KiCad Schematic Final
 
-**<img width="1696" height="1300" alt="image" src="https://github.com/user-attachments/assets/a8bea7cd-59ab-4cb0-bf9d-46db4fed7b7c" />
-**
+<img width="1696" height="1300" alt="image" src="https://github.com/user-attachments/assets/27276416-b758-40a2-b093-4dab673b8c17" />
+
 Prototype Sketch
 
